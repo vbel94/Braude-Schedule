@@ -1,0 +1,775 @@
+{
+  "courses": [
+    {
+      "courseId": "61756",
+      "courseName": " קורס\tשיטות הנדסיות לפיתוח מערכות תכנה שנה\"ל תשפ\"א",
+      "lecture": [
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 13:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר סופר אבי",
+            null
+          ],
+          "lectureRoom": [
+            "  705 L",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ג",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר דהן ענת",
+            null
+          ],
+          "lectureRoom": [
+            "  705 L",
+            null
+          ]
+        }
+      ],
+      "exercise": [
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 15:50",
+            null
+          ],
+          "finishHour": [
+            " 18:50",
+            null
+          ],
+          "lecturer": [
+            " מר זלדנר איליה",
+            null
+          ],
+          "lectureRoom": [
+            " מע' 109 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 15:50",
+            null
+          ],
+          "finishHour": [
+            " 18:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר קורנבלט קטרינה",
+            null
+          ],
+          "lectureRoom": [
+            " 217 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 15:50",
+            null
+          ],
+          "finishHour": [
+            " 18:50",
+            null
+          ],
+          "lecturer": [
+            " מר חסאוי טירן",
+            null
+          ],
+          "lectureRoom": [
+            " 316 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 13:50",
+            null
+          ],
+          "lecturer": [
+            " מר חסאוי טירן",
+            null
+          ],
+          "lectureRoom": [
+            " מע' 109 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 13:50",
+            null
+          ],
+          "lecturer": [
+            " גב' שיידין ג'וליה",
+            null
+          ],
+          "lectureRoom": [
+            " 207 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ה",
+            null
+          ],
+          "startHour": [
+            " 08:30",
+            null
+          ],
+          "finishHour": [
+            " 11:30",
+            null
+          ],
+          "lecturer": [
+            " מר חסאוי טירן",
+            null
+          ],
+          "lectureRoom": [
+            " מע' 109 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 12:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר קורנבלט קטרינה",
+            null
+          ],
+          "lectureRoom": [
+            " 306 M מע'",
+            null
+          ]
+        }
+      ],
+      "lab": []
+    },
+    {
+      "courseId": "61757",
+      "courseName": " קורס\tמבוא לבדיקות תכנה שנה\"ל תשפ\"א",
+      "lecture": [
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 12:50",
+            null
+          ],
+          "finishHour": [
+            " 13:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר קורנבלט קטרינה",
+            null
+          ],
+          "lectureRoom": [
+            "  708 L",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ג",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 11:30",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            "  708 L",
+            null
+          ]
+        }
+      ],
+      "exercise": [],
+      "lab": [
+
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר קורנבלט קטרינה",
+            null
+          ],
+          "lectureRoom": [
+            " 102 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 08:30",
+            null
+          ],
+          "finishHour": [
+            " 10:30",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            " 102 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            " 316 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ג",
+            null
+          ],
+          "startHour": [
+            " 08:30",
+            null
+          ],
+          "finishHour": [
+            " 10:30",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            " 102 M מע'",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר קורנבלט קטרינה",
+            null
+          ],
+          "lectureRoom": [
+            " 104 M מע' UNIX",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            " מע' 109 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 13:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מזין סרגיי",
+            null
+          ],
+          "lectureRoom": [
+            " 217 M מע'",
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "courseId": "61759",
+      "courseName": " קורס\tאוטומטים וחישוביות שנה\"ל תשפ\"א",
+      "lecture": [
+        {
+          "day": [
+            " ב",
+            " ד"
+          ],
+          "startHour": [
+            " 10:30",
+            " 08:30"
+          ],
+          "finishHour": [
+            " 12:20",
+            " 10:30"
+          ],
+          "lecturer": [
+            " ד\"ר שינולד שרי",
+            " ד\"ר שינולד שרי"
+          ],
+          "lectureRoom": [
+            " 202 EM",
+            " 112 M אודיטוריום"
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            " ה"
+          ],
+          "startHour": [
+            " 08:30",
+            " 11:30"
+          ],
+          "finishHour": [
+            " 10:30",
+            " 13:50"
+          ],
+          "lecturer": [
+            " ד\"ר רודה יואב",
+            " ד\"ר רודה יואב"
+          ],
+          "lectureRoom": [
+            "  707 L",
+            "  705 L"
+          ]
+        }
+      ],
+      "exercise": [
+        {
+          "day": [
+            " ג",
+            null
+          ],
+          "startHour": [
+            " 14:50",
+            null
+          ],
+          "finishHour": [
+            " 16:50",
+            null
+          ],
+          "lecturer": [
+            " מר בר יהלום אלי",
+            null
+          ],
+          "lectureRoom": [
+            " 308 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 12:50",
+            null
+          ],
+          "finishHour": [
+            " 14:50",
+            null
+          ],
+          "lecturer": [
+            " מר בר יהלום אלי",
+            null
+          ],
+          "lectureRoom": [
+            "  299 D1",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ה",
+            null
+          ],
+          "startHour": [
+            " 09:30",
+            null
+          ],
+          "finishHour": [
+            " 11:30",
+            null
+          ],
+          "lecturer": [
+            " מר בר יהלום אלי",
+            null
+          ],
+          "lectureRoom": [
+            " 221 M נגישות",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ד",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 12:20",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר שינולד שרי",
+            null
+          ],
+          "lectureRoom": [
+            " 203 EM",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ה",
+            null
+          ],
+          "startHour": [
+            " 13:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר רודה יואב",
+            null
+          ],
+          "lectureRoom": [
+            " 208 M",
+            null
+          ]
+        }
+      ],
+      "lab": []
+    },
+    {
+      "courseId": "61760",
+      "courseName": " קורס\tהסתברות להנדסת תכנה שנה\"ל תשפ\"א",
+      "lecture": [
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 10:30",
+            null
+          ],
+          "finishHour": [
+            " 13:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר יהלום אורלי",
+            null
+          ],
+          "lectureRoom": [
+            "  P414",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ה",
+            null
+          ],
+          "startHour": [
+            " 11:30",
+            null
+          ],
+          "finishHour": [
+            " 14:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מוניץ בנימין",
+            null
+          ],
+          "lectureRoom": [
+            "  708 L",
+            null
+          ]
+        }
+      ],
+      "exercise": [
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 13:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " מר בודק קובי",
+            null
+          ],
+          "lectureRoom": [
+            " 201 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 15:50",
+            null
+          ],
+          "finishHour": [
+            " 17:50",
+            null
+          ],
+          "lecturer": [
+            " מר בודק קובי",
+            null
+          ],
+          "lectureRoom": [
+            " 201 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " א",
+            null
+          ],
+          "startHour": [
+            " 13:50",
+            null
+          ],
+          "finishHour": [
+            " 15:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר יהלום אורלי",
+            null
+          ],
+          "lectureRoom": [
+            " 209 M",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ה",
+            null
+          ],
+          "startHour": [
+            " 14:50",
+            null
+          ],
+          "finishHour": [
+            " 16:50",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר מוניץ בנימין",
+            null
+          ],
+          "lectureRoom": [
+            "  702  L",
+            null
+          ]
+        }
+      ],
+      "lab": []
+    },
+    {
+      "courseId": "61769",
+      "courseName": " קורס\tממשק אדם מחשב שנה\"ל תשפ\"א",
+      "lecture": [
+        {
+          "day": [
+            " ב",
+            null
+          ],
+          "startHour": [
+            " 08:30",
+            null
+          ],
+          "finishHour": [
+            " 10:30",
+            null
+          ],
+          "lecturer": [
+            " ד\"ר דהן ענת",
+            null
+          ],
+          "lectureRoom": [
+            "  706 L",
+            null
+          ]
+        },
+        {
+          "day": [
+            " ג",
+            null
+          ],
+          "startHour": [
+            " 08:30",
+            null
+          ],
+          "finishHour": [
+            " 10:30",
+            null
+          ],
+          "lecturer": [
+            " גב' שיידין ג'וליה",
+            null
+          ],
+          "lectureRoom": [
+            " 703 L",
+            null
+          ]
+        }
+      ],
+      "exercise": [],
+      "lab": []
+    }
+  ]
+}
