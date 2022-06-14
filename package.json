@@ -1,10 +1,10 @@
 {
   "name": "untitled",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,7 @@
   "dependencies": {
     "geneticalgorithm": "^1.0.2",
     "object-hash": "^3.0.0"
+
   },
   "devDependencies": {
     "eslint": "^8.17.0",
@@ -19,5 +20,14 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.2.2",
     "eslint-plugin-promise": "^6.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbel94/Braude-Schedule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vbel94/Braude-Schedule/issues"
+  },
+  "homepage": "https://github.com/vbel94/Braude-Schedule#readme",
+  "description": ""
 }
